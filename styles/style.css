@@ -33,7 +33,7 @@ body{
 
 .cabecalho__menu__link{
     font-family: var(--fonte-secundaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 600;
     color: var(--cor-terciaria);
     text-decoration: none;
@@ -45,17 +45,19 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    gap: 82px;
+    
 }
 
 .apresentacao__conteudo{
-    width: 615px;
+    width: 50%;
     display: flex;
     flex-direction: column;
     gap: 40px; 
 }
 
 .apresentacao__conteudo__titulo{
-    font-size: 36px;
+    font-size: 2.25rem;
     font-family: var(--fonte-primaria);
 }
 
@@ -64,7 +66,7 @@ body{
 }
 
 .apresentacao__conteudo__texto{
-    font-size: 24px;
+    font-size: 1.5rem;
     font-family: var(--fonte-secundaria);
     text-align: justify;
 }
@@ -83,18 +85,18 @@ body{
 .apresentacao__links__subtitulo{
     font-family: var(--fonte-secundaria);
     font-weight: 400;
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
-.apresentacao__links__link{
+.apresentacao__links__navegacao{
     display: flex;
     justify-content: center;
     gap: 16px;
-    width: 378px;
+    width: 50%;
     text-align: center;
     border-radius: 8px;
     border: 2px solid var(--cor-terciaria);
-    font-size: 24px;
+    font-size: 1.5rem;
     padding: 21.5px 0;
     text-decoration: none;
     color: var(--cor-secundaria);
@@ -102,16 +104,38 @@ body{
     font-weight: 600;
 }
 
-.apresentacao__links__link:hover{
+.apresentacao__links__navegacao:hover{
    background-color: var(--cor-hover); 
 }
 
+.apresentacao__imagem{
+    width: 50%;
+
+}
+
 .rodape{
-    font-size: 24px;
+    font-size: 1.5rem;
     text-align: center;
     color: var(--cor-primaria);
     font-weight: 400;
     font-family: var(--fonte-secundaria);
     padding: 24px;
     background-color: var(--cor-terciaria);
+}
+
+@media(max-width: 1200px){
+    .cabecalho{
+        padding: 10%;
+    }  
+    .cabecalho__menu{
+        justify-content: center;
+    }
+    .apresentacao{
+        flex-direction: column-reverse;
+        padding: 5%;
+    }
+    .apresentacao__conteudo{
+       width: auto;
+    }
+    
 }
