@@ -7,7 +7,7 @@
 * [Índice](#índice)
 * [Descrição](#descrição)
 * [Status do Projeto](#status-do-Projeto)
-* [Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Demonstração da Aplicação](#demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
@@ -28,7 +28,7 @@ https://github.com/Priscylla-Passos/Port_Alura/assets/82420437/5c981ff1-e4c4-499
 
 https://priscylla-passos.github.io/Port_Alura/
 
-## ✔️ Tecnologias utilizadas
+# ✔️ Tecnologias Utilizadas
 
 - ``HTML5``
 - ``CSS3``
