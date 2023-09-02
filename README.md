@@ -24,11 +24,11 @@ Concluído a versão 1.0, mas sempre em atualizações
 
 https://github.com/Priscylla-Passos/Port_Alura/assets/82420437/5c981ff1-e4c4-499e-92ec-277b2cd72ecb
 
-# 📁 Acesso ao projeto
+#  Acesso ao projeto 
 
 https://priscylla-passos.github.io/Port_Alura/
 
-# ✔️ Tecnologias Utilizadas
+# Tecnologias Utilizadas
 
 - ``HTML5``
 - ``CSS3``
