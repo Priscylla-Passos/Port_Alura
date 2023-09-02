@@ -38,5 +38,5 @@ https://priscylla-passos.github.io/Port_Alura/
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/82420437?v=4" width=115><br><sub>Priscila Passos</sub>](https://github.com/Priscylla-Passos)
 
 # Conclusão
-O Objetivo deste repositório é facilitar você recrutador de me conhecer e ver alguns de meus projetos em um unico lugar. E o código disponivel.
-E você que não for recrutador me conhecer um pouco. Espero que gostem 
+O Objetivo deste repositório é facilitar para você recrutador, me conhecer e ver alguns de meus projetos em um único lugar. E o código disponível.
+E você que não for recrutador, poderá me conhecer um pouco. Espero que gostem 
