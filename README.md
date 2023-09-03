@@ -1,12 +1,15 @@
-![Logo_Priscilla](https://github.com/Priscylla-Passos/Port_Alura/assets/82420437/ebda3d8f-9c1a-4e59-ad3d-039fe1f1713e)
+<div align="center">
 
-# Portfólio de Priscila Passos
+![Logo_Priscilla2](https://github.com/Priscylla-Passos/Port_Alura/assets/82420437/1d07774e-d2d0-423c-809a-a0eaf2d20614)
+
+<h1 align="center"> Portfólio de Priscila Passos</h1>
+</div>
+
 
 # Índice 
-* [Título e Imagem de capa](#Portfólio-de-Priscila-Passos)
-* [Índice](#índice)
+
 * [Descrição](#descrição)
-* [Status do Projeto](#status-do-Projeto)
+* [Status do Projeto](#Status-do-Projeto)
 * [Demonstração da Aplicação](#demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
@@ -18,7 +21,8 @@ Neste projeto me apresento como profissional, descrevendo algumas coisas as quai
 Poderá consultar o deploy de todos eles.
 
 # Status do Projeto
-Concluído a versão 1.0, mas sempre em atualizações
+
+Concluído, mas sempre em atualizações.
 
 # Demonstração da Aplicação
 
@@ -38,5 +42,6 @@ https://priscylla-passos.github.io/Port_Alura/
 [<img loading="lazy" src="https://avatars.githubusercontent.com/u/82420437?v=4" width=115><br><sub>Priscila Passos</sub>](https://github.com/Priscylla-Passos)
 
 # Conclusão
+
 O Objetivo deste repositório é facilitar para você recrutador, me conhecer e ver alguns de meus projetos em um único lugar. E o código disponível.
-E você que não for recrutador, poderá me conhecer um pouco. Espero que gostem 
+E você que não for recrutador, poderá me conhecer um pouco. Espero que gostem.
